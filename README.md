@@ -86,8 +86,9 @@ const quizData = [
     question: "What is 2 + 2?",
     options: ["3", "4", "5", "22"],
     answer: 1,
-  },
-
+  }
+];
+```
 ---
 
 ## 🧩 Future Enhancements
@@ -99,6 +100,5 @@ const quizData = [
 🔊 Add sound effects or transitions
 
 ---
-   
-];
+
 
